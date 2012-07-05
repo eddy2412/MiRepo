@@ -66,5 +66,7 @@ public class AlumnoDAO extends DAO {
         }
     }
     
-   
+   public void insertarAlumno(Alumno a){
+       //TODO: Meter el alumno en la base de datos
+   }
 }
